@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @BhoomiAgrawal12
-- 👀 I’m interested in Machine learning and web development
+- 👀Machine Learning enthusiast and Full-Stack Developer
 - 🌱 I’m currently learning ML to expand my skill set
-- 💞️ I’m looking to collaborate on machine learning and web based Projects
+- 💞️ looking to collaborate on machine learning and web based Projects
 - ✈️Apart from coding I like travelling and exploring new places.
 
 <!---
