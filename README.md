@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">I'm Bhoomi Agrawal and I'm a Computer science undergrad at Dayananda Sagar College of Engineering, Bangalore(India).I am a Full-stack developer and currently expanding my skills in Machine Learning.Eager to grab new oppourtunities  to learn and grow.</p>
+<p align="left">I'm Bhoomi Agrawal, a Computer science undergrad at Dayananda Sagar College of Engineering, Bangalore(India).I am a Full-stack developer and currently expanding my skills in Machine Learning.Eager to grab new oppourtunities  to learn and grow.</p>
 
 ###
 
