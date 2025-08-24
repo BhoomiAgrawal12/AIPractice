@@ -1,0 +1,10 @@
+langchain
+llama-index
+pydantic
+python-dotenv
+fastapi
+uvicorn
+streamlit
+typer #CLI integration
+sqlalchemy
+langchain-google-genai

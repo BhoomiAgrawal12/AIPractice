@@ -1,0 +1,13 @@
+2025-08-24 11:57:56,006 - INFO - Logged 2000 ml for user user_123
+2025-08-24 12:00:39,661 - INFO - Fetched history for user user_123
+2025-08-24 12:00:45,225 - INFO - Fetched history for user user_123
+2025-08-24 12:13:38,940 - INFO - User user_123 started tracking.
+2025-08-24 12:14:48,175 - INFO - User user_123 started tracking.
+2025-08-24 12:15:11,676 - INFO - User user_123 logged 800 ml.
+2025-08-24 12:16:38,021 - INFO - User user_123 viewed intake history.
+2025-08-24 12:17:38,624 - INFO - User user_123 logged 800 ml.
+2025-08-24 12:17:41,779 - INFO - User user_123 viewed intake history.
+2025-08-24 12:17:56,357 - INFO - User user_123 ended tracking.
+2025-08-24 12:18:01,678 - INFO - User 123456 started tracking.
+2025-08-24 12:18:04,035 - INFO - User 123456 viewed intake history.
+2025-08-24 12:18:20,824 - INFO - User 123456 logged 2000 ml.
